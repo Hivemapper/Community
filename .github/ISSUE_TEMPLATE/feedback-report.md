@@ -10,7 +10,7 @@ assignees: jayalberts
 # Feedback
 **What type of feedback is this?**
 - Bug report
-- Enhancement for new or existing feature
+- Enhancement request for new or existing feature
 - Other
 
 **Feedback description**
