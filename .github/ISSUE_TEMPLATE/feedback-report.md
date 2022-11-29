@@ -9,16 +9,15 @@ assignees: jayalberts
 
 # Feedback
 **What type of feedback is this?**
-- Bug with existing feature
-- Enhancement idea for existing feature
-- Idea for a new feature
+- Bug report
+- Enhancement for new or existing feature
 - Other
 
 **Feedback description**
-A clear and concise description of your bug, enhancement, or feature idea.
+A clear and concise description of your bug, enhancement, idea, etc.
 
 **Additional material**
-If applicable, add screenshots, screen recordings, mockups or anything else to help explain your feedback.
+If applicable: add screenshots, screen recordings, mockups or anything else to help explain your feedback.
 
 # Bug details
 ### Please complete this section if you are reporting a bug
