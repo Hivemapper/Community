@@ -2,7 +2,7 @@ name: Auto Assign to Project(s)
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened]
 env:
   MY_GITHUB_TOKEN: ${{ secrets.AUTO_ASSIGN_PROJECT }}
 
@@ -12,7 +12,7 @@ jobs:
     name: Assign to One Project
     steps:
     - name: Assign NEW issues to Community project
-      uses: Hivemapper/Community
+      uses: srggrs/assign-one-project-github-action@1.3.1
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/orgs/Hivemapper/projects/1/'
