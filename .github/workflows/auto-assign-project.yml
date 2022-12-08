@@ -16,5 +16,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/orgs/Hivemapper/projects/1'
-        column_name: '💡 Ideas & Feedback'
 
